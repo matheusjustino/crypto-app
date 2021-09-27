@@ -7,23 +7,27 @@
 
 -   `yarn start`
 
+## DEMO
+
+-   https://crypto-app-five.vercel.app/
+
 ## CRYPTO APP
 
 -   ### HOME
 
-    ![Home Page](screenshots\home-1.png)
+    ![Home Page](./screenshots/home-1.png)
 
 -   ### CRYPTO LIST - TOP 100
 
-    ![Crypto List](screenshots\crypto-list-top-100.png)
+    ![Crypto List](./screenshots/crypto-list-top-100.png)
 
 -   ### CRYPTO DETAILS
 
-    ![Crypto Details](screenshots\crypto-details-chart-1.png)
+    ![Crypto Details](./screenshots/crypto-details-chart-1.png)
 
 -   ### CRYPTO DETAILS
 
-    ![Crypto Details](screenshots\crypto-details-statistics-1.png)
+    ![Crypto Details](./screenshots/crypto-details-statistics-1.png)
 
 -   ### CRYPTO NEWS
-    ![Crypto News](screenshots\crypto-news-1.png)
+    ![Crypto News](./screenshots/crypto-news-1.png)
